@@ -1447,13 +1447,5 @@ chmod +x network-monitor.sh
 
 ---
 
-## 🔗 Useful Resources
-
-- [Linux ip command documentation](https://man7.org/linux/man-pages/man8/ip.8.html)
-- [Linux ss command documentation](https://man7.org/linux/man-pages/man8/ss.8.html)
-- [Linux curl documentation](https://curl.se/docs/)
-- [Linux networking manual pages](https://man7.org/linux/man-pages/)
-- [MDN HTTP Documentation](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-- [Cloud Networking Documentation - AWS](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
 **Next Chapter:** Linux File Permissions and Ownership 🔐
